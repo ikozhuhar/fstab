@@ -1,3 +1,3 @@
-# fstab
+# fdisk - способ управления разделами дисков в Linux
 
 https://rus-linux.net/MyLDP/hard/manage_disk_partitions_with_fdisk.html
