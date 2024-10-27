@@ -17,7 +17,6 @@
 13. [Как смонтировать раздел в Linux?](#13)
 14. [Дополнительные источники](#14)
 
-https://rus-linux.net/MyLDP/hard/manage_disk_partitions_with_fdisk.html
 
 Жесткие диски можно разделить на один или несколько логических дисков, называемых разделами. Это разделение описано в таблице разделов (MBR или GPT) в секторе 0 диска.
 
@@ -472,6 +471,7 @@ tmpfs           200M   25M  176M  13% /run/user/1000
 
 ## [[⬆]](#toc) <a name='14'>Дополнительные источники</a>
 [Администрирование систем Linux. Разделы жестких дисков](https://rus-linux.net/MyLDP/BOOKS/LSA/ch05.html)
+[Управление дисками и устройствами в Linux](https://serverspace.ru/support/help/upravlenie-blochnymi-ustrojstvami-linux/)
 
 
 
