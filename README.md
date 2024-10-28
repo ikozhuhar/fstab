@@ -470,8 +470,8 @@ tmpfs           200M   25M  176M  13% /run/user/1000
 
 
 ## [[⬆]](#toc) <a name='14'>Дополнительные источники</a>
-[Администрирование систем Linux. Разделы жестких дисков](https://rus-linux.net/MyLDP/BOOKS/LSA/ch05.html)
-[Управление дисками и устройствами в Linux](https://serverspace.ru/support/help/upravlenie-blochnymi-ustrojstvami-linux/)
+1. [Администрирование систем Linux. Разделы жестких дисков](https://rus-linux.net/MyLDP/BOOKS/LSA/ch05.html)
+2. [Управление дисками и устройствами в Linux](https://serverspace.ru/support/help/upravlenie-blochnymi-ustrojstvami-linux/)
 
 
 
